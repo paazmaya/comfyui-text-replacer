@@ -1,0 +1,5 @@
+# These are the default replacement rules
+cat: dog
+blue: red
+happy: ecstatic
+old: new
